@@ -175,9 +175,7 @@ pytest tests/
   * caching of previous results,
   * smaller context windows and chunk prioritization,
   * a cost cap per session and backpressure when approaching limits.
-
----
-
+    
 ## 🧩 Extensibility Ideas
 
 * Add **browser plugin** to send highlighted text into Luminal.

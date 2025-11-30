@@ -132,7 +132,7 @@ Response shape (simplified):
 }
 
 
----
+
 
 ## 🏗 Architecture & Pipeline
 
@@ -144,7 +144,6 @@ Response shape (simplified):
 6. **Consolidation (research_agent.py):** Merges summaries, computes confidence, formats citations.
 7. **UI:** Live streaming of synthesis progress, final structured output.
 
----
 
 ## 🔐 Security & Privacy
 

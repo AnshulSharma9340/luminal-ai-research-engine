@@ -16,7 +16,7 @@
 * **Structured Output:** Key points, Confidence scores, and clickable source citations.
 * **Security:** `.env` + `.gitignore` to protect API keys.
 
----
+
 
 ## 🔧 Tech Stack
 

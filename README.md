@@ -5,7 +5,6 @@
 
 > **Luminal** is a Perplexity-style, high-performance AI research assistant built with Flask. It combines real-time Google search (via SerpAPI), content extraction, and Google Gemini synthesis to deliver consolidated answers with source citations, confidence scores, and an elegant Neon Glassmorphism UI.
 
----
 
 ## ⚡ Highlights
 
